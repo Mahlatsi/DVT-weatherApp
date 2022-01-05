@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tiny_text">10sp</dimen>
+    <dimen name="small_text">15sp</dimen>
+    <dimen name="average_text">17sp</dimen>
+    <dimen name="normal_text">20sp</dimen>
+    <dimen name="medium_text">25sp</dimen>
+    <dimen name="large_text">30sp</dimen>
+    <dimen name="xxtralarge_text">40sp</dimen>
+
+    <dimen name="tiny_margin">5dp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="medium_margin">15dp</dimen>
+    <dimen name="medium_large_margin">20dp</dimen>
+    <dimen name="large_margin">25dp</dimen>
+    <dimen name="xxtralarge_margin">40dp</dimen>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DVT Weather</string>
+    <string name="celsius">%1$s\u00B0</string>
+    <string name="empty">----</string>
+    <string name="dvt_weather">DVT Weather</string>
+    <string name="error_connectivity">Please ensure that your device is connect to the internet.</string>
+    <string name="note">Note</string>
+    <string name="ok">OK</string>
+    <string name="min_title">min</string>
+    <string name="current_title">Current</string>
+    <string name="max_title">max</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="favorirate_title">Favorites</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="view_favorite">Favorites</string>
+    <string name="places">Places</string>
+    <string name="favorites">Favorites</string>
+    <string name="api_key">AIzaSyCVltcspf16Aw97bGZ23JxE9Tvw0q6vnTk</string>
+    <string name="close">Close</string>
+    <string name="empty_message">Its lonely in here!</string>
+</resources>
